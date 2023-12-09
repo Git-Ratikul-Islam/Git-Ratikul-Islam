@@ -14,9 +14,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Git-Ratikul-Islam&theme=shadow-purple&card_width=850&border=00000000&fire=6578D7&ring=6578D7&stroke=6578D7&currStreakNum=6578D7&sideLabels=8D7BE1&currStreakLabel=6578D7&sideNums=8D7BE1&dates=EBEBEB)](https://git.io/streak-stats)
 
-
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/midnight_purple/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 📫 Reach me out
 ---
 <div id="badges" align="center" >
